@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+h1:hover{
+    box-shadow: 0px 8px 16px rgb(209, 11, 44);
+    font-size: larger;
+    font-weight: bolder;
+    background-color:90AEAD;
+    font-style: oblique;
+    
+
+}
+label{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+label:hover{
+    box-shadow: 0px 8px 16px pink;
+    font-size: larger;
+    font-weight: bolder;
+    background-color: FBE9D0;
+    color: black;
+   
+    
+    
+
+}
+#predictionForm{
+    text-align: center;
+    
+}
+.std{
+    height: auto;
+    width: 100%;
+    border: 3px;
+    box-shadow: 2px,3px,18px black;
+    background-color:rgb(17, 181, 146);
+}
